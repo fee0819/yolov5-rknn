@@ -1,0 +1,7 @@
+/home/fq/rk1106/rknpu2/examples/RV1106_RV1103/rknn_yolov5_demo/build/build_linux_arm/CMakeFiles/install/strip.dir
+/home/fq/rk1106/rknpu2/examples/RV1106_RV1103/rknn_yolov5_demo/build/build_linux_arm/CMakeFiles/install/local.dir
+/home/fq/rk1106/rknpu2/examples/RV1106_RV1103/rknn_yolov5_demo/build/build_linux_arm/CMakeFiles/install.dir
+/home/fq/rk1106/rknpu2/examples/RV1106_RV1103/rknn_yolov5_demo/build/build_linux_arm/CMakeFiles/list_install_components.dir
+/home/fq/rk1106/rknpu2/examples/RV1106_RV1103/rknn_yolov5_demo/build/build_linux_arm/CMakeFiles/rebuild_cache.dir
+/home/fq/rk1106/rknpu2/examples/RV1106_RV1103/rknn_yolov5_demo/build/build_linux_arm/CMakeFiles/edit_cache.dir
+/home/fq/rk1106/rknpu2/examples/RV1106_RV1103/rknn_yolov5_demo/build/build_linux_arm/CMakeFiles/rknn_yolov5_demo.dir
